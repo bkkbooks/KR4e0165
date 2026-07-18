@@ -26,6 +26,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR4e0165_WYG_009-1a04}
   - {type: indent, offset: 9, content: 　　, id: KR4e0165_krp_009-bkkind5}
   - {type: punctuation, offset: 14, content: (, id: KR4e0165_krp_009-bkkpn1}
+  - {type: voice, offset: 14, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 17, content: /, id: KR4e0165_krp_009-bkkpn2}
   - {type: punctuation, offset: 17, content: ), id: KR4e0165_krp_009-bkkpn3}
   - {type: 'kr:newline', offset: 17, content: '
@@ -333,6 +334,7 @@ markers:
   - {type: line-break, offset: 881, content: '', id: KR4e0165_WYG_009-4b05}
   - {type: substitution, offset: 886, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 895, content: (, id: KR4e0165_krp_009-bkkpn4}
+  - {type: voice, offset: 895, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 898, content: /, id: KR4e0165_krp_009-bkkpn5}
   - {type: punctuation, offset: 900, content: ), id: KR4e0165_krp_009-bkkpn6}
   - {type: substitution, offset: 902, original: 澹, replacement: 淡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20177}}
@@ -851,6 +853,7 @@ markers:
   - {type: line-break, offset: 2396, content: '', id: KR4e0165_WYG_009-10b03}
   - {type: indent, offset: 2396, content: 　　　, id: KR4e0165_krp_009-bkkind48}
   - {type: punctuation, offset: 2401, content: (, id: KR4e0165_krp_009-bkkpn7}
+  - {type: voice, offset: 2401, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 2404, content: /, id: KR4e0165_krp_009-bkkpn8}
   - {type: punctuation, offset: 2407, content: ), id: KR4e0165_krp_009-bkkpn9}
   - {type: 'kr:newline', offset: 2407, content: '
@@ -1223,4 +1226,4 @@ markers:
 
       ', id: KR4e0165_krp_009-bkkkrnewl251}
   back: []
-hash: sha256:85355a2bd2d26a22145a71bad57dbaf956b39a33429df3338e8824260c8a0ade
+hash: sha256:72acb5966b90e611da659e20263b7f9c087d62d606b3248144ad8e1705250fda
